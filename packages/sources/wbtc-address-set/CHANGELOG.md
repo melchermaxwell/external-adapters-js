@@ -1,5 +1,31 @@
 # @chainlink/wbtc-address-set-adapter
 
+## 1.3.1
+
+### Patch Changes
+
+- Updated dependencies [6b3fa8c3c]
+- Updated dependencies [da1207541]
+- Updated dependencies [1b6d4f1dd]
+  - @chainlink/proof-of-reserves-adapter@1.4.1
+  - @chainlink/ea-bootstrap@1.9.1
+  - @chainlink/ea-test-helpers@1.0.1
+
+## 1.3.0
+
+### Minor Changes
+
+- 61b95d06c: Implement por-indexer adapter to query PoR indexer service
+
+### Patch Changes
+
+- Updated dependencies [a74101705]
+- Updated dependencies [703b60579]
+- Updated dependencies [61b95d06c]
+  - @chainlink/ea-bootstrap@1.9.0
+  - @chainlink/proof-of-reserves-adapter@1.4.0
+  - @chainlink/ea-test-helpers@1.0.1
+
 ## 1.2.3
 
 ### Patch Changes
@@ -49,7 +75,7 @@
 
 ### Minor Changes
 
-- 4d3c0a79: added 'network' and 'chainId' to the response
+- e50223f49: added 'network' and 'chainId' to the response
 
 ## 1.0.13
 

@@ -1,5 +1,19 @@
 # @chainlink/ea-bootstrap
 
+## 1.9.1
+
+### Patch Changes
+
+- da1207541: Add fallback to local cache for WS
+- 1b6d4f1dd: Include 'endpoint' as a base input parameter
+
+## 1.9.0
+
+### Minor Changes
+
+- a74101705: Ignore health checks in rate limiter
+- 703b60579: added 'type' label for metrics for failed requests
+
 ## 1.8.0
 
 ### Minor Changes

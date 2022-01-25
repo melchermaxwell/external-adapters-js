@@ -1,5 +1,24 @@
 # @chainlink/coinmarketcap-adapter
 
+## 1.3.6
+
+### Patch Changes
+
+- ccc5a3af3: added response types
+- Updated dependencies [da1207541]
+- Updated dependencies [1b6d4f1dd]
+  - @chainlink/ea-bootstrap@1.9.1
+  - @chainlink/ea-test-helpers@1.0.1
+
+## 1.3.5
+
+### Patch Changes
+
+- Updated dependencies [a74101705]
+- Updated dependencies [703b60579]
+  - @chainlink/ea-bootstrap@1.9.0
+  - @chainlink/ea-test-helpers@1.0.1
+
 ## 1.3.4
 
 ### Patch Changes

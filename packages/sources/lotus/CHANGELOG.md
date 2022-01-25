@@ -1,5 +1,24 @@
 # @chainlink/lotus-adapter
 
+## 2.1.5
+
+### Patch Changes
+
+- Updated dependencies [6b3fa8c3c]
+- Updated dependencies [da1207541]
+- Updated dependencies [1b6d4f1dd]
+  - @chainlink/json-rpc-adapter@1.1.16
+  - @chainlink/ea-bootstrap@1.9.1
+
+## 2.1.4
+
+### Patch Changes
+
+- Updated dependencies [a74101705]
+- Updated dependencies [703b60579]
+  - @chainlink/ea-bootstrap@1.9.0
+  - @chainlink/json-rpc-adapter@1.1.15
+
 ## 2.1.3
 
 ### Patch Changes
@@ -49,7 +68,7 @@
 
 ### Major Changes
 
-- 4d3c0a79: changed 'addresses' input param which now expects an array of objects, instead of array of strings
+- e50223f49: changed 'addresses' input param which now expects an array of objects, instead of array of strings
 
 ## 1.0.14
 
