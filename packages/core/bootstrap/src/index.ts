@@ -23,6 +23,7 @@ import {
   Builder,
   normalizeInput,
 } from './lib/external-adapter'
+import { Limits } from './lib/provider-limits'
 import * as metrics from './lib/metrics'
 import * as RateLimit from './lib/rate-limit'
 import * as burstLimit from './lib/burst-limit'
@@ -256,10 +257,11 @@ export const expose = <C extends Config>(
   execute: Execute,
   makeWsHandler?: MakeWSHandler,
   endpointSelector?: (request: AdapterRequest) => APIEndpoint<C>,
+  rateLimits?: Limits,
 ): ExecuteHandler => {
   const middleware = makeMiddleware(execute, makeWsHandler, endpointSelector)
   return {
-    server: server.initHandler(name, execute, middleware),
+    server: server.initHandler(name, execute, middleware, rateLimits),
   }
 }
 

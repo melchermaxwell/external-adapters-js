@@ -6,6 +6,7 @@ import rateLimit from 'express-rate-limit'
 import { join } from 'path'
 import * as client from 'prom-client'
 import { executeSync, storeSlice, withMiddleware } from '../index'
+import { Limits } from './provider-limits'
 import { defaultOptions } from './cache'
 import { loadTestPayload } from './config/test-payload-loader'
 import {
@@ -29,11 +30,12 @@ export const CONTENT_TYPE_APPLICATION_JSON = 'application/json'
 export const CONTENT_TYPE_TEXT_PLAIN = 'text/plain'
 
 export const initHandler =
-  (name: string, execute: Execute, middleware: Middleware[]) => async (): Promise<http.Server> => {
+  (name: string, execute: Execute, middleware: Middleware[], rateLimits?: Limits) =>
+  async (): Promise<http.Server> => {
     const context: AdapterContext = {
       name,
       cache: null,
-      rateLimit: getRateLimitConfig({ name }),
+      rateLimit: getRateLimitConfig({ limits: rateLimits || {}, name }),
     }
     const cacheOptions = defaultOptions()
     if (cacheOptions.enabled) {

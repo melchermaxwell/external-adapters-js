@@ -26,7 +26,7 @@ export const makeExecuteWithWarmer = async (execute: Execute, store: Store) => {
       ...defaultOptions(),
       instance: await options.cacheBuilder(options.cacheImplOptions),
     },
-    rateLimit: get({}),
+    rateLimit: get(),
   }
   const executeWithMiddleware = await withMiddleware(execute, context, [
     withCache(),
