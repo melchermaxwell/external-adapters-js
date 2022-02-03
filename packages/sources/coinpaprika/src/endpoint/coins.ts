@@ -19,6 +19,7 @@ export const execute: ExecuteWithConfig<Config> = async (request, _, config) => 
   const validator = new Validator(request)
   if (validator.error) throw validator.error
   console.log('test')
+
   const jobRunID = validator.validated.id
   const url = '/v1/coins'
   const options = {
