@@ -4,6 +4,32 @@ on:
   pull_request: ~
 
 jobs:
+  matrix-adapters:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.create-matrix.outputs.result }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14.x'
+      - name: Generate job matrix
+        id: create-matrix
+        run: yarn generate:gha:matrix
+  build-adapters:
+    needs: [matrix-adapters]
+    name: (${{ matrix.adapter.type }}) Test matrix ${{matrix.adapter.name}} adapter
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{fromJson(needs.matrix-adapters.outputs.matrix)}}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14.x'
+      - name: Install yarn deps
+        run: yarn
+
   run-basic-checks:
     name: Run Soak Tests Against Changed Adapters
     runs-on: ubuntu-latest
