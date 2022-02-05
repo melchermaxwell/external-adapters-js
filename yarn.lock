@@ -1735,7 +1735,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -1753,7 +1753,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     ethers: ^5.5.0
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -1819,7 +1819,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -1852,7 +1852,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -1872,7 +1872,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     ethers: ^5.5.1
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -1904,7 +1904,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     ethers: ^5.4.6
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -1922,7 +1922,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     ethers: 5.4.7
-    nock: 13.2.1
+    nock: 13.2.4
     tslib: ^2.3.1
     typescript: 4.3.5
   languageName: unknown
@@ -1957,7 +1957,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     decimal.js: ^10.3.1
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2090,7 +2090,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     blockcypher: ^0.3.0
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2107,7 +2107,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2140,7 +2140,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2220,7 +2220,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     axios: ^0.24.0
-    nock: 13.2.1
+    nock: 13.2.4
     tslib: ^2.3.1
     typescript: 4.3.5
   languageName: unknown
@@ -2236,7 +2236,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2270,7 +2270,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2287,7 +2287,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2322,7 +2322,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2340,7 +2340,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     ethers: ^5.4.6
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2357,7 +2357,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2374,7 +2374,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2422,7 +2422,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2443,7 +2443,7 @@ __metadata:
     decimal.js: ^10.3.1
     ethers: 5.0.32
     moment: ^2.29.1
-    nock: 13.2.1
+    nock: 13.2.4
     tslib: ^2.3.1
     typescript: 4.3.5
   languageName: unknown
@@ -2493,7 +2493,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2527,7 +2527,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2544,7 +2544,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2563,7 +2563,7 @@ __metadata:
     "@types/supertest": 2.0.11
     decimal.js: ^10.3.1
     ethers: ^5.4.6
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.1.0
     typescript: 4.3.5
@@ -2581,7 +2581,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2614,7 +2614,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2645,7 +2645,7 @@ __metadata:
     "@chainlink/types": "workspace:*"
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2711,7 +2711,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2729,7 +2729,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -2750,7 +2750,7 @@ __metadata:
     ethers: ^5.3.0
     ipfs: ^0.60.0
     merkletreejs: ^0.2.18
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.1.0
     typescript: 4.3.5
@@ -3044,7 +3044,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     ethers: ^5.4.6
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3061,7 +3061,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3080,7 +3080,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     ethers: ^5.4.6
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3097,7 +3097,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3114,7 +3114,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.1.0
     typescript: 4.3.5
@@ -3131,7 +3131,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3148,7 +3148,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.1.0
     typescript: 4.3.5
@@ -3207,7 +3207,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3251,7 +3251,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3268,7 +3268,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3285,7 +3285,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3302,7 +3302,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3333,7 +3333,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3350,7 +3350,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3366,7 +3366,7 @@ __metadata:
     "@chainlink/types": "workspace:*"
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3464,7 +3464,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     decimal.js: ^10.3.1
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3481,7 +3481,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3519,7 +3519,7 @@ __metadata:
     ipfs-http-client: ^52.0.3
     ipld-dag-cbor: ^1.0.1
     multiformats: ^9.4.1
-    nock: 13.2.1
+    nock: 13.2.4
     tslib: ^2.1.0
     type-fest: 2.6.0
     typescript: 4.3.5
@@ -3536,7 +3536,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: ^13.2.3
+    nock: 13.2.4
     supertest: ^6.2.2
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3553,7 +3553,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3570,7 +3570,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3603,7 +3603,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3623,7 +3623,7 @@ __metadata:
     axios: ^0.24.0
     csv-parse: ^4.16.0
     decimal.js: ^10.3.1
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3670,7 +3670,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     ethers: ^5.4.7
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3705,7 +3705,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3723,7 +3723,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     axios: ^0.24.0
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3754,7 +3754,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3771,7 +3771,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.1.0
     typescript: 4.3.5
@@ -3801,7 +3801,7 @@ __metadata:
     "@chainlink/types": "workspace:*"
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3818,7 +3818,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3835,7 +3835,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3866,7 +3866,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3883,7 +3883,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3919,7 +3919,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3952,7 +3952,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -3969,7 +3969,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4073,7 +4073,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     bitcoinjs-lib: ^5.2.0
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4090,7 +4090,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4109,7 +4109,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     ethers: ^5.4.6
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4128,7 +4128,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     jsonwebtoken: ^8.5.1
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4147,7 +4147,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     ethers: ^5.4.6
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4165,7 +4165,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/sinon": 10.0.6
     ethers: ^5.4.2
-    nock: 13.2.1
+    nock: 13.2.4
     sinon: 12.0.1
     tslib: ^2.1.0
     typescript: 4.3.5
@@ -4185,7 +4185,7 @@ __metadata:
     "@types/supertest": 2.0.11
     ethers: ^5.4.6
     luxon: ^2.0.2
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4202,7 +4202,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4221,7 +4221,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     decimal.js: ^10.3.1
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     synthetix: 2.45.3
     tslib: ^2.3.1
@@ -4258,7 +4258,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4276,7 +4276,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4309,7 +4309,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4326,7 +4326,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4353,7 +4353,7 @@ __metadata:
     "@types/node": 16.11.19
     decimal.js: ^10.3.1
     ethers: ^5.4.6
-    nock: 13.2.1
+    nock: 13.2.4
     tslib: ^2.3.1
     typescript: 4.3.5
   languageName: unknown
@@ -4369,7 +4369,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4387,7 +4387,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     express: ^4.17.1
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4404,7 +4404,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4421,7 +4421,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4444,7 +4444,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4463,7 +4463,7 @@ __metadata:
     "@types/supertest": 2.0.11
     decimal.js: ^10.3.1
     ethers: ^5.4.6
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.1.0
     typescript: 4.3.5
@@ -4482,7 +4482,7 @@ __metadata:
     "@types/supertest": 2.0.11
     decimal.js: ^10.3.1
     ethers: ^5.4.6
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.1.0
     typescript: 4.3.5
@@ -4499,7 +4499,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.1.0
     typescript: 4.3.5
@@ -4516,7 +4516,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4549,7 +4549,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     ethers: ^5.4.6
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4567,7 +4567,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4584,7 +4584,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4601,7 +4601,7 @@ __metadata:
     "@types/jest": 27.0.3
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -4637,7 +4637,7 @@ __metadata:
     "@types/node": 16.11.19
     "@types/supertest": 2.0.11
     ethers: ^5.5.1
-    nock: 13.2.1
+    nock: 13.2.4
     supertest: 6.1.6
     tslib: ^2.3.1
     typescript: 4.3.5
@@ -21360,27 +21360,15 @@ fsevents@~2.1.1:
   languageName: node
   linkType: hard
 
-"nock@npm:13.2.1":
-  version: 13.2.1
-  resolution: "nock@npm:13.2.1"
+"nock@npm:13.2.4":
+  version: 13.2.4
+  resolution: "nock@npm:13.2.4"
   dependencies:
     debug: ^4.1.0
     json-stringify-safe: ^5.0.1
     lodash.set: ^4.3.2
     propagate: ^2.0.0
-  checksum: b401fb8143ca88095ee34c715e2806eda2813dace4f4c4798961ad961c18003d1529f4507a79c429d2c3c768e136632ee19ee9ebfef71f0cb022df152594df1d
-  languageName: node
-  linkType: hard
-
-"nock@npm:^13.2.3":
-  version: 13.2.3
-  resolution: "nock@npm:13.2.3"
-  dependencies:
-    debug: ^4.1.0
-    json-stringify-safe: ^5.0.1
-    lodash.set: ^4.3.2
-    propagate: ^2.0.0
-  checksum: 037ff302269f7395eeb1ef50d86a1a67847a47856c3dbd27ee8dd82311f80e6dba8778fc78283104fc45374cfce579547f8a7aff9249146cd426e99035715a8f
+  checksum: 2750a82ea22eebd8203eb1d7669ae09c3daae1fd573026372bad2515adad48d723a804f647bd45d7a499eb3a9a632560da406bde05bca9df762d3027db9099b5
   languageName: node
   linkType: hard
 
